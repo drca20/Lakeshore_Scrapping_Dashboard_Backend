@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\POCDemo</_PublishTargetUrl>
+    <History>True|2023-01-06T11:22:19.8452348Z;True|2023-01-06T11:30:22.0892704+05:30;True|2023-01-03T18:45:16.7691071+05:30;True|2022-12-28T14:39:40.6380714+05:30;True|2022-12-28T12:32:54.3767898+05:30;True|2022-12-28T12:22:45.5093151+05:30;True|2022-12-27T20:55:23.7205285+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
